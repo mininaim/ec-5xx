@@ -1,6 +1,6 @@
     body {
         font-family: 'Almarai', sans-serif;
-        _background-color: #2E2650;
+        /*background-color: #2E2650;*/
         background-image: url(https://ec.gov.sa/wp-content/uploads/2020/11/infographic-background-2.33c83376.svg);
         background-position: 500px 80px;
         background-repeat: no-repeat;
@@ -38,7 +38,7 @@
     }
 
     a {
-        color: #2E2650 !important;
+        color: #e53460 !important;
     }
 
     .block {
